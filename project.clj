@@ -1,4 +1,4 @@
-(defproject com.manigfeald/selfsigned "0.1.0-SNAPSHOT"
+(defproject com.manigfeald/selfsigned "0.1.0"
   :description "some times you just want a self signed cert"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
